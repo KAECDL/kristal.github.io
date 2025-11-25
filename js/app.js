@@ -1,5 +1,3 @@
-
-
 $(function() {
 
   "use strict";
@@ -397,6 +395,7 @@ window.addEventListener('DOMContentLoaded', () => {
 // --------------------------------------------- //
 // Color Switch End
 // --------------------------------------------- //
+
 
 
 
